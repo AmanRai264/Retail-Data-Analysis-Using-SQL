@@ -44,3 +44,37 @@ Transform raw retail data into actionable insights by analyzing:
 
 ---
 
+## **Repository Structure**
+
+### **1. SQL Code**
+Contains all SQL queries used in the project:
+- **Exploratory Data Analysis.sql**: Insights from initial data exploration.
+- **RFM Modeling.sql**: Queries for customer segmentation.
+- **Business Metrics.sql**: Analysis of profitability and trends.
+
+### **2. Database**
+Includes raw data and table creation scripts:
+- **`data.csv`**: Raw retail data.
+- **`schema.sql`**: Scripts for creating database tables.
+
+### **3. Documentation**
+- Detailed project documentation (e.g., key findings, insights, and visualizations).
+
+---
+
+## **Key Insights**
+
+### **Product Popularity**
+- Identified top 10 most popular products based on sales volume.
+
+### **Customer Segmentation**
+- Segmented customers into high-value and at-risk categories using RFM scores.
+
+### **Profitability Analysis**
+- Highlighted the most profitable products and customer segments.
+
+### **Behavioral Patterns**
+- Discovered patterns in customer purchase frequency and value.
+
+---
+
