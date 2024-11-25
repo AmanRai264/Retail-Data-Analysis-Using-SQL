@@ -78,3 +78,39 @@ Includes raw data and table creation scripts:
 
 ---
 
+## **Technologies Used**
+- **PostgreSQL**: Database management and analysis.
+- **DBeaver**: For data ingestion and database interactions.
+- **SQL**: Core analytical engine.
+- **Excel/Other Tools**: For additional visualizations (optional).
+
+---
+
+## **How to Use This Repository**
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AmanRAi264/Retail-Data-Analysis-SQL.git
+   ```
+2. Navigate to the SQL Code directory to explore the queries.
+3. Load the `Database` directory files into PostgreSQL for analysis replication.
+4. Follow the documentation for detailed step-by-step insights.
+
+---
+
+## **Future Enhancements**
+- Integration of more advanced customer lifetime value (CLV) models.
+- Building dashboards to visualize key metrics using **Tableau/Power BI**.
+- Automating workflows using **Python** for ETL processes.
+
+---
+
+## **Contributors**
+- **Your Name**: SQL Developer and Data Analyst  
+Feel free to reach out via [Email](amanrai0745@gmail.com).
+
+---
+
+### **Let's Uncover Insights Together! 🚀**
+
+---
